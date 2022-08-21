@@ -19,5 +19,9 @@
   "6f365275ed3b789fc7bf4d4d0b769dc70117542aee93ca328f94ee53"
  ],
  "when-satured-then-recommend": [],
- "verification": "0be1a9ee3e76725cbc"
+ "verification": [
+  "0be1a9ee3e76725cbc",
+  "b7995857d8818e1f5a",
+  "14b0ca2bd2814b0a62"
+ ]
 }
